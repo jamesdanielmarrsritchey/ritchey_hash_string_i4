@@ -1,0 +1,13 @@
+Name: Ritchey Hash String
+Implementation: 4
+Version: 1
+Long Identifier: Ritchey Hash String i4 v1
+Short Identifier: RHSi4v1
+Description: A user-defined PHP function for hashing a string with Ritchey Hashing Algorithm 4.
+History:
+ - Project started July 5, 2024.
+ - Version 1 completed July 5, 2024.
+Author: James Daniel Marrs Ritchey
+Licensing: This project is herby licensed under the Ritchey Permissive License v16.
+Notes:
+ - Ritchey Hashing Algorithm 4 is a simple algorithm, so expect collisions. It's also slow, so it's best suited to very small inputs.
